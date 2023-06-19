@@ -1,0 +1,46 @@
+.bottonClick{
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+    width: 50%;
+}
+
+.boxtype1{
+    background-color: #f2f2f2;
+    align-items: center;
+    width: fit-content;
+    padding: 20px;  
+}
+
+input[type=text]{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.boxtype2{
+    background-color: #f2f2f2;
+    align-items: center;
+    width: fit-content;
+    padding: 20px;  
+    border: 1px solid black;
+}
+
+.bottonClick2{
+    background-color: #8c8c8c;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+    width: 50%;
+}
